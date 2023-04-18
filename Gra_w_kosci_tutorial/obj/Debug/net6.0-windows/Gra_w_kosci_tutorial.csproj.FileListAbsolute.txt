@@ -1,0 +1,84 @@
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.csproj.AssemblyReference.cache
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial_MarkupCompile.cache
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial_MarkupCompile.lref
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.g.resources
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\ref\Gra_w_kosci_tutorial.dll
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.pdb
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.exe
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.deps.json
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.runtimeconfig.json
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.dll
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\ref\Gra_w_kosci_tutorial.dll
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.pdb
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.dll
+C:\Users\Laptop\source\repos\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.genruntimeconfig.cache
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.exe
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.deps.json
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.runtimeconfig.json
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.dll
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\ref\Gra_w_kosci_tutorial.dll
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.pdb
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.csproj.AssemblyReference.cache
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial_MarkupCompile.cache
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial_MarkupCompile.lref
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.g.resources
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.AssemblyInfoInputs.cache
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.AssemblyInfo.cs
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.dll
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\ref\Gra_w_kosci_tutorial.dll
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.pdb
+C:\Users\Wirginia\Downloads\Gra_w_kosci_tutorial_etap5 (2)\Gra_w_kosci_tutorial\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.genruntimeconfig.cache
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.exe
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.deps.json
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.runtimeconfig.json
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.dll
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.pdb
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.csproj.AssemblyReference.cache
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial_MarkupCompile.cache
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial_MarkupCompile.lref
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.g.resources
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.AssemblyInfoInputs.cache
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.AssemblyInfo.cs
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.dll
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\refint\Gra_w_kosci_tutorial.dll
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.pdb
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.genruntimeconfig.cache
+C:\Users\nordk\Desktop\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\ref\Gra_w_kosci_tutorial.dll
+D:\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.exe
+D:\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.deps.json
+D:\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.runtimeconfig.json
+D:\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.dll
+D:\Grawkosci\Gra_w_kosci_tutorial\bin\Debug\net6.0-windows\Gra_w_kosci_tutorial.pdb
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.csproj.AssemblyReference.cache
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\App.g.cs
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial_MarkupCompile.cache
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial_MarkupCompile.lref
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.g.resources
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.AssemblyInfoInputs.cache
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.AssemblyInfo.cs
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.csproj.CoreCompileInputs.cache
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.dll
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\refint\Gra_w_kosci_tutorial.dll
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.pdb
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\Gra_w_kosci_tutorial.genruntimeconfig.cache
+D:\Grawkosci\Gra_w_kosci_tutorial\obj\Debug\net6.0-windows\ref\Gra_w_kosci_tutorial.dll

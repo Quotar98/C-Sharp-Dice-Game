@@ -1,0 +1,156 @@
+﻿<Window x:Class="Gra_w_kosci_tutorial.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gra_w_kosci_tutorial"
+        mc:Ignorable="d"
+        Title="Gra w kości" Height="650" Width="800">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+
+        <Button Content="Roll"  x:Name="rollbtn" Grid.Row="1"  Click="rollbtn_Click"/>
+        <Button Content="Start"  x:Name="startbtn"  Click="startbtn_Click" Grid.Column="2" Grid.Row="0"/>
+        <Button Content="Zatwierdz"   x:Name="zatwierdzbtn" Click="zatwierdzbtn_Click" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock Text="" FontSize="20px" FontWeight="Bold"  Grid.Column="2" Grid.Row ="1"  x:Name="points"  />
+        <ItemsControl  IsManipulationEnabled="False" ItemsSource="{Binding results}">
+
+
+
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Button Click="Button_Dice_Click"  BorderThickness ="0px">
+                        <Image Height="100">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Source" Value="Images/kostkapusta.png" />
+                                    <Style.Triggers>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="1"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka1.png" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="2"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka2.png" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="3"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka3.png" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="4"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka4.png" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="5"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka5.png" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="6"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="false"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka6.png" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="1"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka1.png" />
+                                            <Setter Property="Opacity" Value="0.5" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="2"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka2.png" />
+                                            <Setter Property="Opacity" Value="0.5" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="3"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka3.png" />
+                                            <Setter Property="Opacity" Value="0.5" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="4"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka4.png" />
+                                            <Setter Property="Opacity" Value="0.5" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="5"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka5.png" />
+                                            <Setter Property="Opacity" Value="0.5" />
+                                        </MultiDataTrigger>
+                                        <MultiDataTrigger>
+                                            <MultiDataTrigger.Conditions>
+                                                <Condition Binding="{Binding Value}" Value="6"/>
+                                                <Condition Binding="{Binding IsSelected}" Value="true"/>
+                                            </MultiDataTrigger.Conditions>
+                                            <Setter Property="Source" Value="Images/kostka6.png" />
+                                            <Setter Property="Opacity" Value="0.5" />
+                                        </MultiDataTrigger>
+
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Button>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+
+        <StackPanel Grid.Column="1">
+            <ItemsControl  ItemsSource="{Binding scores}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate >
+                        <UniformGrid Columns="3" >
+                            <Label Content="{Binding Name}"/>
+                            <Label Content="{Binding Points}"/>
+                            <CheckBox IsChecked="{Binding IsSet}" VerticalAlignment="Center" IsEnabled="{Binding IsEnable}"/>
+                        </UniformGrid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </StackPanel>
+
+
+
+
+
+    </Grid>
+</Window>

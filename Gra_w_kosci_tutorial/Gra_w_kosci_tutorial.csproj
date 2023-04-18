@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<Resource Include ="Images/kostka1.png"/>
+		<Resource Include ="Images/kostka2.png"/>
+		<Resource Include ="Images/kostka3.png"/>
+		<Resource Include ="Images/kostka4.png"/>
+		<Resource Include ="Images/kostka5.png"/>
+		<Resource Include ="Images/kostka6.png"/>
+		<Resource Include ="Images/kostkapusta.png"/>
+	</ItemGroup>
+
+</Project>
